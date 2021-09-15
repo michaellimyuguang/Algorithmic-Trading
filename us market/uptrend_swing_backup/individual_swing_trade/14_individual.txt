@@ -1,0 +1,2 @@
+symbol,name
+VEDL,Vedanta Limited  American Depositary Shares (Each representing four equity shares),

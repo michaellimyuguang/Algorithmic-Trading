@@ -1,0 +1,5 @@
+symbol,name
+CNHI,CNH Industrial N.V. Common Shares,
+COF,Capital One Financial Corporation Common Stock,
+DAC,Danaos Corporation Common Stock,
+DE,Deere & Company Common Stock,

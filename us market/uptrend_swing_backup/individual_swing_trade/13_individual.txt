@@ -1,0 +1,6 @@
+symbol,name
+RPT,RPT Realty Common Stock,
+SBH,Sally Beauty Holdings Inc. (Name to be changed from Sally Holdings Inc.) Common Stock,
+SLF,Sun Life Financial Inc. Common Stock,
+SM,SM Energy Company Common Stock,
+SSL,Sasol Ltd. American Depositary Shares,

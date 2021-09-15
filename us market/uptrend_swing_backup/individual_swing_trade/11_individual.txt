@@ -1,0 +1,6 @@
+symbol,name
+ETH,Ethan Allen Interiors Inc. Common Stock,
+GWB,Great Western Bancorp Inc. Common Stock,
+JCI,Johnson Controls International plc Ordinary Share,
+JPM,JP Morgan Chase & Co. Common Stock,
+KFY,Korn Ferry Common Stock,

@@ -1,0 +1,2 @@
+symbol,name
+AMG,Affiliated Managers Group Inc. Common Stock,

@@ -1,0 +1,2 @@
+symbol,name
+LNTH,Lantheus Holdings Inc. Common Stock,

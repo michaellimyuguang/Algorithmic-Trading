@@ -1,0 +1,6 @@
+symbol,name
+L,Loews Corporation Common Stock,
+MCY,Mercury General Corporation Common Stock,
+MHK,Mohawk Industries Inc. Common Stock,
+MTDR,Matador Resources Company Common Stock,
+OSK,Oshkosh Corporation (Holding Company)Common Stock,

@@ -1,0 +1,2 @@
+symbol,name
+RRGB,Red Robin Gourmet Burgers Inc. Common Stock,
